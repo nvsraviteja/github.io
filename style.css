@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+#nav{
+    height: 109px;
+    /* width: 100%; */
+    background-color: #141f2e;
+    padding: 0px 40px 0px 30px;
+    color: white;
+    /* position: fixed ; */
+}
+#naa{
+    text-align: right;
+    padding-top: 23px ;
+    font-size: 13px;
+}
+#log{
+    text-align: left;
+    display: inline;
+    
+   
+}
+img{
+    
+    height: 35px;
+    width: 59px;
+    margin: 18px 20px -12px 10px;
+    float: left;
+
+    
+}
+button{
+    background-color: #f08804;
+}
+
+.top{
+    margin-top: 17px;
+    padding: 0px 8px 0px 18px; 
+    /* float: right; */
+}
+#sign{
+    display: block;
+    position: relative;
+    text-align: center;
+    font-weight: 700;
+    height: 34.03;
+    width: 184.44; 
+    margin-top: 17px;
+    padding: 5px 20px 5px 20px; 
+    float: right;
+    background-color: white;
+    color: rgba(0,0,0,0.7);   
+    border-radius: 40px;
+    font-size: 14px;
+  
+  
+}
+#n2{
+    height: 68px;
+    /* float: left; */
+    margin: 0px 20px 0px 0px;
+    padding: 35px 18px 0px 0px;
+    font-size: 13px;
+}
+.bott{
+    padding: 0px 10px 22px 10px;
+}
+#nav2{
+    height: 0px;
+    background-color: white;
+    padding: 19.29px 40px 19.29px 40px;
+    text-align: center;
+}
+#train{
+    text-align: left;
+    padding-left: 50px;
+}
+.nav2{
+    margin-top: 25px;
+    padding: 13px 15px 11px 15px;
+    text-align: center;
+    
+}
+#get{
+    height: 42.39px;
+    background-color: #0972d3;
+    
+}
